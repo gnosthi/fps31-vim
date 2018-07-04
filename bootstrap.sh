@@ -15,9 +15,9 @@
 #   limitations under the License.
 
 ############################  SETUP PARAMETERS
-app_name='spf13-vim'
-[ -z "$APP_PATH" ] && APP_PATH="$HOME/.spf13-vim-3"
-[ -z "$REPO_URI" ] && REPO_URI='https://github.com/spf13/spf13-vim.git'
+app_name='fps31-vim'
+[ -z "$APP_PATH" ] && APP_PATH="$HOME/.fps31-vim-3"
+[ -z "$REPO_URI" ] && REPO_URI='https://github.com/gnosthi/fps31-vim.git'
 [ -z "$REPO_BRANCH" ] && REPO_BRANCH='3.0'
 debug_mode='0'
 fork_maintainer='0'
@@ -203,4 +203,4 @@ sync_repo       "$HOME/.vim/bundle/vundle" \
 setup_vundle    "$APP_PATH/.vimrc.bundles.default"
 
 msg             "\nThanks for installing $app_name."
-msg             "© `date +%Y` http://vim.spf13.com/"
+msg             "© `date +%Y` http://vim.lvxferro.com/"
