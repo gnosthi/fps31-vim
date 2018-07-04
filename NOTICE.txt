@@ -1,0 +1,9 @@
+================================================================
+==   NOTICE File for use with the Apache License Version 2.0  ==
+================================================================
+
+FPS31-vim
+Copyright 2018 Kenneth Jordan
+
+This software contains code derived from Steve Francia's SPF13-Vim.
+
